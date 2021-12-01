@@ -1,4 +1,6 @@
 # Agent-based simulation of SIR model on random networks
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luca-mm/sir-on-networks/HEAD?labpath=SIR%20Presentation%20Notebook.ipynb)
+
 Student: Luca Mihailescu (luca.mihailescu@fu-berlin.de)\
 Coordinator: Sina Zendehroud, M.Sc.
 
